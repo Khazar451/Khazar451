@@ -21,8 +21,8 @@ I study computer engineering at Manisa Celal Bayar University. I'm focused on AI
 
 ### Stack
 
-**AI / ML** &nbsp; Python, TensorFlow, NumPy, LangGraph, Ollama, llama.cpp, RAG, ChromaDB<br />
-**Backend** &nbsp; FastAPI, Java, Spring Boot, Node.js, MongoDB, SQLite<br />
+**AI / ML** &nbsp; Python, Pythorch, NumPy, Pandas, LangGraph, Ollama, llama.cpp, RAG, ChromaDB<br />
+**Backend** &nbsp; FastAPI, Java, Spring Boot, Node.js, MongoDB, SQLite, Postgresql<br />
 **Frontend** &nbsp; React, TypeScript, Tailwind CSS<br />
 **Also** &nbsp; C, Dart
 
